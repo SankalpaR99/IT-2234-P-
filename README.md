@@ -4,6 +4,7 @@ Day 01 - 2025.03.10
 
 
 
+
 Outputs of how to print a message
 
 ![Output_PrintMessage](https://github.com/user-attachments/assets/56dcf239-3c02-416f-a84f-c04ffe90fbfa)
