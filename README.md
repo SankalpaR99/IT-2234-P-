@@ -22,13 +22,6 @@ Outputs of how to find the most frequent element in an array
 ![Output_FrequentElement](https://github.com/user-attachments/assets/3e541376-aa6c-4e3d-ae9e-29e502c6c242)
 
 
-Outputs of JSON concept
-
-![Output_JSON_1](https://github.com/user-attachments/assets/cc293d92-0ae6-455b-bfd6-a4240fff2aed)
-![Output_JSON_2](https://github.com/user-attachments/assets/83eecbb4-0085-4804-b432-3a2fa764be07)
-![Output_JSON_3](https://github.com/user-attachments/assets/4ab37481-325e-468a-aaed-df137f010867)
-
-
 Outputs of how to print a nested array
 
 ![Output_PrintNestedArray](https://github.com/user-attachments/assets/8ed4c12d-1376-4283-b5b6-38faa408ff84)
@@ -47,4 +40,13 @@ Outputs of how to reverse the array using push and pop
 Outputs of how to find the all pairs that sum up to the target
 
 ![Output_SumPairs](https://github.com/user-attachments/assets/02705b07-e273-451e-a80f-3ca8f59ca051)
+
+
+Outputs of JSON concept
+
+![Output_JSON_1](https://github.com/user-attachments/assets/cc293d92-0ae6-455b-bfd6-a4240fff2aed)
+![Output_JSON_2](https://github.com/user-attachments/assets/83eecbb4-0085-4804-b432-3a2fa764be07)
+![Output_JSON_3](https://github.com/user-attachments/assets/4ab37481-325e-468a-aaed-df137f010867)
+
+
 
