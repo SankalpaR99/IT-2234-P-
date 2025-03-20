@@ -27,12 +27,14 @@ Outputs of app.js
 ![Output_app](https://github.com/user-attachments/assets/1553e3ba-ba36-4a56-9da2-a076b252d024)
 
 
+
+npm installing process
+
+
 ![Output_npm_install](https://github.com/user-attachments/assets/a5eb30ef-34d2-474d-a0b1-a171d4d2130a)
 
 
 
-
-
-
+Installed files
 
 ![Output_files](https://github.com/user-attachments/assets/7e03155e-24af-4baf-9377-834656085a68)
