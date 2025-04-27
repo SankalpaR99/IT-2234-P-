@@ -118,7 +118,13 @@ Outputs
 
 ![Output_6_FInd](https://github.com/user-attachments/assets/82df9fbd-46b6-4f49-a756-8172bc076584)
 
+
+Updated List After Inserting
+
 ![Output_7_UpdatedListAfterInsert](https://github.com/user-attachments/assets/daf6bdca-7654-4ebd-8570-060cc49b2e8e)
+
+
+Updated List After Inserting (As a Chart)
 
 ![Output_8_UpdatedListAfterInsert_Chart](https://github.com/user-attachments/assets/1ee4afef-aec6-4f6c-8b64-2232f3af2ada)
 
