@@ -29,6 +29,7 @@ Outputs
 
 
 
+
 (02)Insert one data set at a once
 
 	shell query  -->
@@ -52,7 +53,8 @@ Outputs
 	
 ![Output_3_InsertOne](https://github.com/user-attachments/assets/78bcfeaf-6187-40d1-96a9-d27724ab2ba6)
 
-		
+
+  
 
 (03)Insert many data sets at a once
 
@@ -110,6 +112,7 @@ Outputs
 ![Output_5_InsertMany2](https://github.com/user-attachments/assets/638ebeca-cc87-43d8-a420-efc3db8010ce)
 
 
+
 (04)Find all students details
 
 	shell query  -->
@@ -130,11 +133,13 @@ Updated List After Inserting (As a Chart)
 
 
 
+
 (05)Show only name and age of students
 
 	Project --> {name:1,age:1,_id:0}
 
 ![Output_9_ShowOnlyNameAndAge](https://github.com/user-attachments/assets/ad52ca5c-abef-4e44-bc36-39351945e00e)
+
 
 
 (06)Find the details whose regno is "2021ICT59"
@@ -149,6 +154,7 @@ Updated List After Inserting (As a Chart)
 		db.Student.find({"regno":"2021ICT59"})
 
 ![Output_11_FindByRegnoShellQuery](https://github.com/user-attachments/assets/74a40f7f-b8c8-4fb5-a28f-5d834de57c8a)
+
 
 
 
@@ -167,6 +173,7 @@ Updated List After Inserting (As a Chart)
 
 
 
+
 (08)Find the students whose age is greater than 23
 
 		{age:{$gt:23}}
@@ -179,6 +186,7 @@ Updated List After Inserting (As a Chart)
 		db.Student.find({age:{$gt:23}})
 
 ![Output_15_FindAgeGreaterThan23ShellQuery](https://github.com/user-attachments/assets/d5488cd4-7117-4e9a-b58d-9ddde855909e)
+
 
 
 (09)How to find students who have skills in C++
@@ -196,6 +204,7 @@ Updated List After Inserting (As a Chart)
 
 
 
+
 (10)How to find students who have skills in C++ and MongoDB
 
 		{skills:{$in:['C++','MongoDB']}}
@@ -210,6 +219,7 @@ Updated List After Inserting (As a Chart)
 ![Output_19_FindWhoKnowsC++AndMongoDBShellQuery](https://github.com/user-attachments/assets/7657b091-e0a2-403f-aacd-84153f25cc22)
 
 
+
 (11)Find the details of first female student.
 
 	shell query -->
@@ -217,6 +227,7 @@ Updated List After Inserting (As a Chart)
 		db.Student.findOne({gender:"F"})
 
 ![Output_20_FindFirstFemaleStudent](https://github.com/user-attachments/assets/ed593094-ee18-4f90-9138-ff56794653d0)
+
 
 
 (12)Sort the students by GPA in ascending order
@@ -236,6 +247,7 @@ Updated List After Inserting (As a Chart)
 ![Output_23_SortByGPAAscendingOrderShellQuery2](https://github.com/user-attachments/assets/854e1353-6b60-4abf-99d2-652eb3da5634)
 
 
+
 (13)Sort the details by GPA in descending order
 
 	sort --> {GPA:-1}
@@ -250,6 +262,7 @@ Updated List After Inserting (As a Chart)
 ![Output_25_SortByGPADescendingOrderShelQuery1](https://github.com/user-attachments/assets/d9e476a2-b24f-4a12-94d3-7a031065a57f)
 
 ![Output_26_SortByGPADescendingOrderShelQuery2](https://github.com/user-attachments/assets/94bbb0c7-ae85-48d1-a373-585d30d67e3d)
+
 
 
 (14)Sort details by GPA and name in ascending order.
@@ -269,6 +282,7 @@ Updated List After Inserting (As a Chart)
 
 
 
+
 (15)Sort IT students by GPA
 
 	query --> {degree:"IT"}
@@ -282,6 +296,7 @@ Updated List After Inserting (As a Chart)
 		db.Student.find({'degree':'IT'}).sort({'GPA':1})
 
   ![Output_31_SortOnlyITStudentsByGPAShellQuery](https://github.com/user-attachments/assets/f3cfa17a-5a0d-40ee-8fae-269fa6f915ed)
+
 
 
 (16)Sort by age ascending order who are stydying "IT" as the degree and gender is "Female".
