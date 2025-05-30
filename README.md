@@ -1,2 +1,25 @@
 IT-2234(P)
 Web Services and Server Technologies
+
+
+![image](https://github.com/user-attachments/assets/4531bb31-dd2a-4632-91d5-89aae1532459)
+
+![image](https://github.com/user-attachments/assets/84349399-99b5-4fbf-a4f4-4a11d5402ce4)
+
+![image](https://github.com/user-attachments/assets/975fb14d-20dd-4eda-b4ad-61e789cbd323)
+
+![image](https://github.com/user-attachments/assets/22ff3c6b-abd6-4ebe-b3b9-9fab2e211fdd)
+
+![image](https://github.com/user-attachments/assets/71bdee21-1486-48e0-8c1e-71ccf700526e)
+
+![image](https://github.com/user-attachments/assets/6c02edba-a045-4630-9a2c-bfa8f84bdff1)
+
+![image](https://github.com/user-attachments/assets/648464b2-085f-4892-91cb-ebff0671fd20)
+
+![image](https://github.com/user-attachments/assets/ee74b4a6-ced4-4db0-bc7c-80fe9140c55a)
+
+![image](https://github.com/user-attachments/assets/c16a4fad-ac30-451b-b35f-d883ea1dba5b)
+
+![image](https://github.com/user-attachments/assets/53cc558d-bb36-421c-a059-3206175040ad)
+
+
